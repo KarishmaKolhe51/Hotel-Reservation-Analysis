@@ -7,7 +7,7 @@ The hotel industry relies on data to make informed decisions and enhance guest e
 ## Dataset Details
 The dataset includes the following columns:
 
-* Booking_ID: A unique identifier for each hotel reservation.
+* **Booking_ID:** A unique identifier for each hotel reservation.
 * no_of_adults: The number of adults in the reservation.
 * no_of_children: The number of children in the reservation.
 * no_of_weekend_nights: The number of nights in the reservation that fall on weekends.
